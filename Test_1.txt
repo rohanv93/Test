@@ -1,1 +1,4 @@
 Test 1
+
+Handler Mapping works as helper for Dispatcher servlet. It helps to identify appropriate controller bean to Dispatcher servlet. 
+Default handler mapping bean is DefaultUrlHandlerMapping.

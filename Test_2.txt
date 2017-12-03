@@ -1,1 +1,4 @@
 Test 2
+
+ 
+Default handler mapping bean is DefaultUrlHandlerMapping.
